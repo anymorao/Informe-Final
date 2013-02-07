@@ -1,0 +1,35 @@
+\select@language {spanish}
+\contentsline {chapter}{\numberline {1}GitHub}{5}{chapter.1}
+\contentsline {section}{\numberline {1.1} Introducci\IeC {\'o}n}{6}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1} Requisitos}{6}{subsection.1.1.1}
+\contentsline {section}{\numberline {1.2} Experiencias}{7}{section.1.2}
+\contentsline {section}{\numberline {1.3} conclusiones}{7}{section.1.3}
+\contentsline {chapter}{\numberline {2}LaTeX}{9}{chapter.2}
+\contentsline {section}{\numberline {2.1} Introducci\IeC {\'o}n}{10}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1} Requisitos}{10}{subsection.2.1.1}
+\contentsline {section}{\numberline {2.2} Experiencias}{11}{section.2.2}
+\contentsline {section}{\numberline {2.3} Conclusiones}{11}{section.2.3}
+\contentsline {chapter}{\numberline {3}Android}{13}{chapter.3}
+\contentsline {section}{\numberline {3.1} Introducci\IeC {\'o}n}{14}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1} Requisitos}{14}{subsection.3.1.1}
+\contentsline {section}{\numberline {3.2} Como ejecutar el proyecto}{15}{section.3.2}
+\contentsline {section}{\numberline {3.3} Aplicaci\IeC {\'o}n}{15}{section.3.3}
+\contentsline {section}{\numberline {3.4} Experiencias}{18}{section.3.4}
+\contentsline {section}{\numberline {3.5} Conclusiones}{18}{section.3.5}
+\contentsline {chapter}{\numberline {4}Python}{19}{chapter.4}
+\contentsline {section}{\numberline {4.1} Introducci\IeC {\'o}n}{20}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1} Requisitos}{20}{subsection.4.1.1}
+\contentsline {section}{\numberline {4.2} Como ejecutar el proyecto}{21}{section.4.2}
+\contentsline {section}{\numberline {4.3} Codigo}{21}{section.4.3}
+\contentsline {section}{\numberline {4.4} Experiencias}{25}{section.4.4}
+\contentsline {section}{\numberline {4.5} Conclusiones}{25}{section.4.5}
+\contentsline {chapter}{\numberline {5}HasKell}{27}{chapter.5}
+\contentsline {section}{\numberline {5.1} Introducci\IeC {\'o}n}{28}{section.5.1}
+\contentsline {section}{\numberline {5.2} Descripci\IeC {\'o}n del Algoritmo Gen\IeC {\'e}tico}{28}{section.5.2}
+\contentsline {section}{\numberline {5.3} El proyecto}{29}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1} Requisitos}{29}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {5.3.2} Como Ejecutar el Proyecto}{29}{subsection.5.3.2}
+\contentsline {subsubsection}{Inicio del Mastermind}{30}{section*.16}
+\contentsline {section}{\numberline {5.4}Programa Fuente}{30}{section.5.4}
+\contentsline {section}{\numberline {5.5}Experiencias}{39}{section.5.5}
+\contentsline {section}{\numberline {5.6}Conclusiones}{39}{section.5.6}
